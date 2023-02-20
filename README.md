@@ -36,7 +36,7 @@ be used with the Python programming language.
 
 ## INSTALLING OF PYGAME IN PYTHON
 THE COMMAND THAT IS USED FOR INSTALLING PYGAME IN OUR PYTHON IS:
-***pip install python
+**pip install python
 
 After this command the pygame is installed in our python editior.
 
