@@ -36,7 +36,7 @@ be used with the Python programming language.
 
 ## INSTALLING OF PYGAME IN PYTHON
 The Command That is Used For Installing Pygame in Our Python Ide is:
-          *  pip install pygame
+          *pip install pygame
 
 
 After this command the pygame is installed in our python editior.
