@@ -12,26 +12,23 @@ A Type of Arcade Game in which a copter is moving as the Game start.It's a Chall
 # ABOUT PYTHON
 --> Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 --> It is used for
-        ➢ web development
-        ➢ software development,
-        ➢ mathematics,
-        ➢ system scripting.
-        ➢ Game Development
-        ➢ Data Science and Machine Learning
+* web development
+* software development,
+* mathematics,
+* system scripting.
+* Game Development
+* Data Science and Machine Learning
         
 ## What can Python do?
         • Python can be used on a server to create web applications.
         • Python can be used alongside software to create workflows.
         • Python can connect to database systems. It can also read and modify files.
         • Python can be used to handle big data and perform complex mathematics.
-• Python can be used for rapid prototyping, or for
-production-ready software development.
-• PYTHON IS LARGELY USED IN GAME DEVELOPMENT.
-WHY PYTHON ?
-• Python works on different platforms (Windows,
-Mac, Linux, Raspberry Pi, etc).
-• Python has a simple syntax similar to the
-English language.
+        • Python can be used for rapid prototyping, or for production-ready software development.
+        • PYTHON IS LARGELY USED IN GAME DEVELOPMENT.
+## WHY PYTHON ?
+        • Python works on different platforms (Windows,Mac, Linux, Raspberry Pi, etc).
+        • Python has a simple syntax similar to the English language.
 • Python has syntax that allows developers to
 write programs with fewer lines than some
 other programming languages.
