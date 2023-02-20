@@ -42,5 +42,5 @@ After using this command on command prompt the pygame is installed in our python
 
 # SCREENSHOT
 
-
+![](Screenshot/S1.jpg)
 
