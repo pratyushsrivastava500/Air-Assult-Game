@@ -41,6 +41,17 @@ be used with the Python programming language.
 After using this command on command prompt the pygame is installed in our python editior.
 
 # SCREENSHOT
+     When Game Gets Started
+![S1](https://user-images.githubusercontent.com/63108370/220164997-76eeff79-eaa4-4898-8baf-10c312e9c89d.jpg)
 
-![](Screenshot/S1.jpg)
+     When Player Crossed One Block Without Any Collision With Block Then Score is Incresed as
+     
+![S2](https://user-images.githubusercontent.com/63108370/220164997-76eeff79-eaa4-4898-8baf-10c312e9c89d.jpg)
+
+    When Copter Collide With The Block Then The Copter Get Crashed And Game Get"S Over And If Someone Wants To Play It Again Then He/She Has To Press Any Key After Game Over The Game Would Be Restart Again.
+    
+![S3](https://user-images.githubusercontent.com/63108370/220164997-76eeff79-eaa4-4898-8baf-10c312e9c89d.jpg)
+
+
+
 
