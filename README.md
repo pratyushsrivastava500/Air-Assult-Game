@@ -38,6 +38,6 @@ be used with the Python programming language.
           • pip install pygame
 
 
-After this command the pygame is installed in our python editior.
+After using this command on command prompt the pygame is installed in our python editior.
 
 
