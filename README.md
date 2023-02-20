@@ -1,13 +1,12 @@
 # Air-Assult-Game
-IT IS A TYPE OF ARCADE GAME IN WHICH A COPTER IS MOVING AS THE GAME STARTS. IT’S A challenging and addictive game in which you have to avoid all obstacles getting in your way. ... As soon as the game starts, your copter automatically moves forward while you only have to balance it throughout the passage of the BLOCKS.
-For implementation of air assult game I have python as a standard language.
+A Type of Arcade Game in which a copter is moving as the Game start.It's a Challenging and Addictive Game In Which You Have To Avoid All Obstacles Getting In Your Way. As Soon As The Game Starts, Your Copter Automatically Moves Forward While You Only Have To Balance It Throughout The Passage Of The BLOCKS.
 
 # Requirements:
 
-*Operating System(Windows, Linux, etc)
+1. Operating System(Windows, Linux, etc)
 
-*Python Ide(Anaconda , Jupyter notebook etc)
+2. Python Ide(Anaconda , Jupyter notebook etc)
 
-*Pygame Module
+3. Pygame Module
 
 
