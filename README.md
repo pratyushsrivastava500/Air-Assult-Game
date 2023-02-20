@@ -35,8 +35,9 @@ Pygame is a cross-platform set of Python modules designed for writing video game
 be used with the Python programming language.
 
 ## INSTALLING OF PYGAME IN PYTHON
-THE COMMAND THAT IS USED FOR INSTALLING PYGAME IN OUR PYTHON IS:
-**pip install python
+The Command That is Used For Installing Pygame in Our Python Ide is:
+             • pip install pygame
+
 
 After this command the pygame is installed in our python editior.
 
