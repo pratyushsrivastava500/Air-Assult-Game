@@ -40,4 +40,7 @@ be used with the Python programming language.
 
 After using this command on command prompt the pygame is installed in our python editior.
 
+# SCREENSHOT
+
+
 
