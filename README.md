@@ -52,6 +52,12 @@ After using this command on command prompt the pygame is installed in our python
     
 ![S3](https://user-images.githubusercontent.com/63108370/220164997-76eeff79-eaa4-4898-8baf-10c312e9c89d.jpg)
 
+# Conclusion
+
+The Airassult Game Is A Type Of Arcade Game In Which Player Has To Control The Copter Without Being Crashed And It Game Help The
+Player To Devlop Controlling Skill In A Copter Without Being Getting Collide .As The Block Crossed By The Player Then The Player Got Reward As TheScorecard Increaes When They Cross The Block Without Being Crashed.
 
 
+## Copyright & License
+Copyright 2023 All rights Reserved Prepared By Pratyush Srivastava
 
