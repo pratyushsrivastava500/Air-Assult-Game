@@ -550,5 +550,3 @@ If you find this project helpful or entertaining:
 [⬆ Back to Top](#-air-assault-game)
 
 </div>
-Reserved Prepared By Pratyush Srivastava
-
