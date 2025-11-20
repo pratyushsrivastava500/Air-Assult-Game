@@ -521,6 +521,4 @@ If you find this project helpful or entertaining:
 
 *Keep flying, keep scoring!* 🚁
 
-[⬆ Back to Top](#-air-assault-game)
-
 </div>
